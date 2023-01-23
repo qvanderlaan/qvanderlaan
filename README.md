@@ -10,8 +10,8 @@
 ## Specialties
 
 - HTML
-- CSS (Default / Bootstrap / Tailwind)
-- JavaScript (Default / jQuery)
+- CSS (Plain / Bootstrap / Tailwind)
+- JavaScript (Plain / jQuery)
 - PHP
 - SQL
 - Git
