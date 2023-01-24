@@ -15,4 +15,4 @@
 - PHP
 - SQL
 - Git
-- lua
+- Lua
