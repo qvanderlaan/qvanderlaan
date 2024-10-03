@@ -1,18 +1,18 @@
 # Hi! I'm Quinten👋
 
 ## About me
-### Student Fullstack developer at the Bit Academy
-####  I am currently sharpening my skills in web development, including HTML, CSS, Javascript, PHP, Laravel, SQL, and Git. I enjoy creating websites that are visually appealing and interactive. I am eager to continue my professional development in this field.
+### 👨‍💻 Student at Codam | Freelance Web Developer
+#### I'm a student at Codam, focusing on C programming, with a strong focus on backend development as a freelance web developer. My primary expertise lies in PHP with the Laravel framework, building scalable and secure backend systems, with skills in:
 
-## Portfolio
-#### http://djquinten.nl/
+## Owner of SkyeDevelopment
+https://skye-development.com
 
 ## Specialties
 
-- HTML
-- CSS (Plain / Bootstrap / Tailwind)
-- JavaScript (Plain / jQuery)
-- PHP
+- C (primary focus)
+- PHP (Laravel & Symfony)
+- HTML, CSS (Tailwind)
+- Javascript / TypeScript
 - SQL
 - Git
 - Lua
