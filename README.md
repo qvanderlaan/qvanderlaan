@@ -28,6 +28,6 @@ I'm **Quinten**, a student at [Codam Coding College](https://www.codam.nl/) (par
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/qvanderlaan-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/qvanderlaan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://byquinten.nl"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
 </p>
