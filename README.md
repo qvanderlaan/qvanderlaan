@@ -7,7 +7,7 @@ I'm **Quinten**, a student at [Codam Coding College](https://www.codam.nl/) (par
 ## 🚀 About Me
 - 🎓 Student at Codam (42 Network)  
 - 💻 Freelance **Laravel + React** developer
-- ⚡ Interests: Web Hosting, Web Development, DevOps & Infrastructure, and Low-level Systems Programming (C/C++)
+- ⚡ Interests: Web Hosting, Web Development, DevOps & Infrastructure, and Low-level Programming (C/C++)
 
 ---
 
