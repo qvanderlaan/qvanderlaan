@@ -13,7 +13,7 @@ I'm **Quinten**, a student at [Codam Coding College](https://www.codam.nl/) (par
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qvanderlaan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://byquinten.nl/stats/stats" height="165" />
   <img src="https://byquinten.nl/stats/streak" height="165" />
 </p>
 
